@@ -13,7 +13,7 @@ React AI Content Studio is a modern **Single Page Application (SPA)** demonstrat
 - **Prompt Engineering UI:** Dedicated controls for adjusting tone, length, and style before AI generation.
 - **Export & Publish:** Client-side transformation logic to export content to Markdown, HTML, or plain text.
 
-## Technical Architecture Highlights
+## Technical Highlights
 - **Framework:** React 18+ with **TypeScript** for strong type safety.
 - **Styling:** **Tailwind CSS** for a utility-first, responsive design system.
 - **State Management:** Advanced React Hooks and Context API for managing complex editor state and history.
