@@ -8,6 +8,8 @@ AI-assisted content creation studio — React, TypeScript, and Tailwind.
 - Template system for blog posts, emails, and other content types
 - Prompt engineering controls (tone, length, style)
 - Export to Markdown, HTML, or plain text
+- Stripe payment integration
+- WordPress REST API backend (`wp-json/asc/v2/`)
 
 ## Commands
 
